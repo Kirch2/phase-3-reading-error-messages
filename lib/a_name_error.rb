@@ -1,3 +1,3 @@
-"hello world"
+#app.rb
+puts "hello world"
 
-hello_world
